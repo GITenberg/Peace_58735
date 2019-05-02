@@ -1,0 +1,23 @@
+_repo: Peace_58735
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Henig, Stanley
+    gutenberg_agent_id: '50123'
+    url: http://www.gutenberg.org/2009/agents/50123
+  - agent_name: Arkawy, Norman
+    gutenberg_agent_id: '50122'
+    url: http://www.gutenberg.org/2009/agents/50122
+description: ''
+gutenberg_issued: '2019-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Peace
+url: http://www.gutenberg.org/ebooks/58735
